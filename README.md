@@ -1,4 +1,4 @@
-## Trabalho final da Disciplina: Modelagem de Dados com Redes Neuraiss Artificiais 
+## Trabalho final da Disciplina: Modelagem de Dados com Redes Neuraiss Artificiais (USP)
 
 Modelagem da Expectativa de Vida Global com Redes Neurais Artificiais (MLP)
 Docente: Prof. Dr. Welton Dionisio
